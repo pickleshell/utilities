@@ -17,3 +17,7 @@ Open a GitHub issue to report a bug, suggest an improvement, or ask for help.
 - [Create an issue](https://github.com/pickleshell/utilities/issues/new)
 - [Browse existing issues](https://github.com/pickleshell/utilities/issues)
 - Email: [pickleshell.plugin@gmail.com](mailto:pickleshell.plugin@gmail.com)
+
+## License
+
+Utilities is available under the [MIT License](LICENSE).
