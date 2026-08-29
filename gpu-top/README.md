@@ -2,6 +2,8 @@
 
 GPU Top is an experimental htop-style terminal monitor for AMD GPUs. It shows live GPU utilization, VRAM, power, temperature, clock speed, Ollama models, and GPU processes.
 
+![GPU Top monitoring an AMD GPU and an Ollama model](assets/screenshot-gpu-top.png)
+
 ## NLA Test Project
 
 GPU Top was created as a real development test for [Next Level Agent](https://github.com/pickleshell/next-level-agent). The user supplied a short initial request, selected the main product parameters, and approved the design. NLA then planned, implemented, tested, reviewed, and completed the application without manual coding intervention.
