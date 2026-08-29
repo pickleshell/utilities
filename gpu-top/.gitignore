@@ -1,0 +1,5 @@
+/gpu-top
+/test_ollama
+/test_bar
+/test_config
+*.o
